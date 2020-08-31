@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="input_zip_code">Enter Zip Code</string>
+    <string name="submit_btn">Submit</string>
